@@ -28,6 +28,8 @@ Include Features here:
 
 --Text Editing: This feature will introduce a switch to common text editing commands like Cut, Paste, Select All.  
 
+--Dynamic Sizing: This feature will shift the sizes of the various buttons as the user gestures away from it, causing the ones gestured towards to grow while the ones gestured away from to shrink, permitting clearer typing.
+
 
 ### Technologies
 Include Technologies here:
